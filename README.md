@@ -142,39 +142,7 @@ Learning and improving my knowledge of:
 
 ---
 
-# 🧪 Projects
 
-### 🎮 Android — GameSuma
-
-An Android game developed while learning **Kotlin and Jetpack Compose**, including game logic, random values, attempts, scoring, timers and UI state.
-
-**Stack:** `Kotlin` `Jetpack Compose` `Android Studio`
-
----
-
-### ⚛️ Pokémon React
-
-A React application consuming the **PokéAPI**, dynamically loading Pokémon data and displaying it through a responsive interface.
-
-**Stack:** `React` `Vite` `Bootstrap` `REST API`
-
----
-
-### 🌲 Natural Parks
-
-A React project consuming a REST API with information about natural parks, including images, descriptions, maps and likes.
-
-**Stack:** `React` `Vite` `Bootstrap` `REST API`
-
----
-
-### ☕ Java Projects
-
-Academic and personal Java exercises focused on programming fundamentals and Object-Oriented Programming.
-
-**Stack:** `Java` `Eclipse`
-
----
 
 # 📊 GitHub Activity
 
@@ -196,15 +164,6 @@ Academic and personal Java exercises focused on programming fundamentals and Obj
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrx18&bg_color=0f172a&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 # 🖥️ Current Status
 
