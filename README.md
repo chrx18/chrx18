@@ -190,14 +190,14 @@ Learning and improving my knowledge of:
 # 🎯 Learning Roadmap
 
 ```text
-Java ────────────────██████████████████░░  Advanced Learning
+Java ────────────────██████████████░░░░░░  Advanced Learning
 Kotlin ──────────────██████████████░░░░░░  Growing
 Android ─────────────██████████████░░░░░░  Growing
 React ───────────────██████████████░░░░░░  Growing
-SQL ─────────────────████████████░░░░░░░░  Growing
-C# ──────────────────██████████░░░░░░░░░░  Learning
-APIs ────────────────████████████░░░░░░░░  Growing
-Git / GitHub ────────████████████████░░░░  Comfortable
+SQL ─────────────────████████████████░░░░  Growing
+C# ──────────────────████████░░░░░░░░░░░░  Learning
+APIs ────────────────███████████████░░░░░  Growing
+Git / GitHub ────────██████████████████░░  Comfortable
 ```
 
 ---
